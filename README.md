@@ -39,10 +39,10 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 
 ## Redes sociales
 <span>
-   <a href="https://www.linkedin.com/in/daniel-camilo-arlantt-restrepo-119891332/" Target="_blank"> 
+   <a href="https://www.linkedin.com/in/daniel-camilo-arlantt-restrepo-119891332/" target="_blank"> 
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-  <a href="https://www.instagram.com/" Target="_blank"> 
+  <a href="https://www.instagram.com/" target="_blank"> 
      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
    </a>
 </span>
