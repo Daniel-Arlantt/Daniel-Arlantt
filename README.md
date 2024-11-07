@@ -38,8 +38,6 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 </span>
 
 ## Redes sociales
-
-<h4> Languages </h4>
 <span>
    <a href="https://www.linkedin.com/in/daniel-camilo-arlantt-restrepo-119891332/"> 
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
