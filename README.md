@@ -10,6 +10,7 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 - 🌱  Actualmente estoy aprendiendo ...
   - Inglés
   - JavaScript
+  - PHP
   - React
 
 -Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 💤 no dormir, 🎵 escuchar música, y 🌴 pasar el tiempo con mis amigos y familiares.
