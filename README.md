@@ -15,7 +15,7 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 
 -Fuera de la tecnología, 🎮 me encanta jugar videojuegos, 💤 no dormir, 🎵 escuchar música, y 🌴 pasar el tiempo con mis amigos y familiares.
 - 📫 Contáctame en: <a href="daniel.arlantt@gmail.com">daniel@arlantt.com</a>
-- 👨‍💻 Portafolio: <a href="arlantt.com>arlantt.com</a>
+- 👨‍💻 Portafolio: <a href="arlantt.com">arlantt.com</a>
 
 ## Habilidades
 
