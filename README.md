@@ -18,7 +18,7 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 - 👨‍💻 Portafolio: <a href="arlantt.com">arlantt.com</a>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-arlantt&show_icons=true&theme=radical)
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8
 ## Habilidades
 
 <h4> Lenguajes </h4>
