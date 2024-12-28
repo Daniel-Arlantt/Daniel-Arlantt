@@ -17,11 +17,10 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 - 📫 Contáctame en: <a href="daniel.arlantt@gmail.com">daniel@arlantt.com</a>
 - 👨‍💻 Portafolio: <a href="arlantt.com">arlantt.com</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-arlantt&show_icons=true&theme=radical"/>
+
 <img src="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hiding-individual-stats"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arlantt&layout=compact)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## Habilidades
 
 <h4> Lenguajes </h4>
