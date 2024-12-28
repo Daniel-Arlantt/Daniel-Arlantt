@@ -17,7 +17,7 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 - 📫 Contáctame en: <a href="daniel.arlantt@gmail.com">daniel@arlantt.com</a>
 - 👨‍💻 Portafolio: <a href="arlantt.com">arlantt.com</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-arlantt&show_icons=true&theme=radical)
 
 ## Habilidades
 
