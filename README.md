@@ -19,7 +19,8 @@ Soy estudiante que esta iniciando en el mundo de la tecnologia. Soy bueno en la 
 
 
 <img src="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#hiding-individual-stats"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arlantt&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-arlantt&layout=compact"/>
+
 
 ## Habilidades
 
