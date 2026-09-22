@@ -3,10 +3,8 @@
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFhM3JndXc5NjkxcDlzZmJtaXNncWxuZTVvNDlta2J4aHh4ZHpxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.webp" width="50px"/> &nbsp;***Sobre mi***
 <img src="https://sustainability.terrahq.com/wp-content/uploads/2022/11/HOF_DontChoose_iconanimWHITE.gif" width="230px" align="right"/>
 
+Soy un estudiante de Ing. Mecatrónica
 
-Soy programador FullStack Junior que le encanta en el mundo de la tecnologia. Soy bueno en la logica, las matematicas y la programación. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
-
-* **Estoy interesado en diseño web, la ciberseguridad y marketing digital.**
 - 🌱  Actualmente estoy aprendiendo ...
   - Inglés
   - Supabase
